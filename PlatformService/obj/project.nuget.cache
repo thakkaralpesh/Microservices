@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z5K6pMkVZPY=",
+  "dgSpecHash": "Y+9IQsnm9b0=",
   "success": true,
-  "projectFilePath": "D:\\interview\\Microservices\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "D:\\interview\\Microservices_aspnet\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALPESH\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ALPESH\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

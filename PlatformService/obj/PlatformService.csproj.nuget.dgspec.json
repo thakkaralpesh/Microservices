@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\interview\\Microservices\\PlatformService\\PlatformService.csproj": {}
+    "D:\\interview\\Microservices_aspnet\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\interview\\Microservices\\PlatformService\\PlatformService.csproj": {
+    "D:\\interview\\Microservices_aspnet\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\interview\\Microservices\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "D:\\interview\\Microservices_aspnet\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\interview\\Microservices\\PlatformService\\PlatformService.csproj",
+        "projectPath": "D:\\interview\\Microservices_aspnet\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\ALPESH\\.nuget\\packages\\",
-        "outputPath": "D:\\interview\\Microservices\\PlatformService\\obj\\",
+        "outputPath": "D:\\interview\\Microservices_aspnet\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALPESH\\AppData\\Roaming\\NuGet\\NuGet.Config"
