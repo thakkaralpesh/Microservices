@@ -14,4 +14,5 @@ builder.Services.AddScoped<IPlatformRepo, PlatformRepo>();
 var app = builder.Build();
 Prepdb.PrepPopulation(app);
 app.UseHttpsRedirection();
+app.MapControllers();
 app.Run();
